@@ -8,10 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://shruti-misra.github.io/">Website</a>
   </p>
   <p align="justify">
-  I am a PhD student at the University of Washington with 5+ years of experience with interdisciplinary research and data science. My research leverages mixed method (quantitative and qualitative) approaches to study innovation ecosystems in digital health and clean technologies. 
+ With a background in data science and computer engineering, I bring extensive experience in handling diverse datasets and using advanced statistical and machine learning methods. I also enjoy storytelling by designing interactive data visualizations (often in Python or Tableau), to effectively communicate data-driven narratives to diverse audiences.
   <br><br>
-  My expertise lies in integrating statistical analysis and visualization of heterogenous data with stakeholder interviews and surveys to identify, define and refine actionable insights that help drive business and social impact.  
-  <br><br>
+  Presently, I am broadening my skill set to encompass areas such as time series analysis and machine learning methods tailored for examining trends in energy systems. I am eager to continue my learning new ways to extract actionable insights from data within fast-paced and collaborative environments. 
   </p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
